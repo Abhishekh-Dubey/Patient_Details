@@ -1,0 +1,41 @@
+[
+    {
+
+        "id" : 1,
+        "Patient_name" : "Anil",
+        "Disease" : "Cancer",
+        "Admit_Date" : "25/03/2022",
+        "Ward_Type" :"ICCU",
+        "Totle_Amount" :50000,
+        "Bill_status" :"unpaid"
+    },
+    {
+        "id" : 2,
+        "Patient_name" : "Sunil",
+        "Disease" : "Typhoid",
+        "Admit_Date" : "05/01/2022",
+        "Ward_Type" :"General ward",
+        "Totle_Amount" :10000,
+        "Bill_status" :"unpaid"
+    },
+    {
+
+        "id" : 3,
+        "Patient_name" : "Amit",
+        "Disease" : "Jaundice",
+        "Admit_Date" : "10/03/2022",
+        "Ward_Type" :"ICCU",
+        "Totle_Amount" :50000,
+        "Bill_status" :"unpaid"
+    },
+    {
+
+        "id" : 4,
+        "Patient_name" : "Sony",
+        "Disease" : "Jaundice",
+        "Admit_Date" : "10/03/2022",
+        "Ward_Type" :"Deluxe Room",
+        "Totle_Amount" :100000,
+        "Bill_status" :"paid"
+    }
+]
